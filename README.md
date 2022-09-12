@@ -23,3 +23,18 @@ I am currently attending the university of Iowa for Computer Science & Engineeri
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Nick-Hageman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nicholas-hageman-303aa721b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+<h1>Recent Projects</h1>
+
+Real Estate Business Website
+-	Developed web applicaiton for home builder to expand marketing and customer communication
+-	Utilized an embedded map to display available properties to customers
+-	Captured and edited drone footage to showcase available houses
+<img src="screenshot1.PNG" width="750px;" height="375px">
+<img src="screenshot2.PNG" width="750px;" height="375px">
+
+IoT Web Application
+-	Developed an IoT Web Application to monitor soil moisture levels in real time
+-	Created REST API's to send & receive data from a microcontroller
+-	Presented data from a relational database using a JavaScript graphing API
+<img src="screenshot4.PNG" width="500px;" height="500px">
