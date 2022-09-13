@@ -27,7 +27,7 @@ I am currently attending the university of Iowa for Computer Science & Engineeri
 <h1>Recent Projects</h1>
 
 Real Estate Business Website
--	Developed web applicaiton for home builder to expand marketing and customer communication
+-	Developed web application for home builder to expand marketing and customer communication
 -	Utilized an embedded map to display available properties to customers
 -	Captured and edited drone footage to showcase available houses
 <img src="screenshot1.PNG" width="750px;" height="375px">
