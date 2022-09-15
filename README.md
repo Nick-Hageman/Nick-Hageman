@@ -5,7 +5,7 @@ I am currently attending the university of Iowa for Computer Science & Engineeri
 
 * 🖥️  See my portfolio at [repositories](http://github.com/Nick-Hageman?tab=repositories)
 * ✉️  You can contact me at [nicholas-hageman@uiowa.edu](mailto:nicholas-hageman@uiowa.edu)
-* 🚀  I'm currently working on [Real Estate Website](http://hageman-homes.com)
+* 🚀  I'm currently working on a Real Estate Website
 * 🤝  I'm open to collaborating on Hackathon projects
 
 ### Skills
@@ -26,7 +26,7 @@ I am currently attending the university of Iowa for Computer Science & Engineeri
 
 <h1>Recent Projects</h1>
 
-[Real Estate Business Website](http://hageman-homes.com)
+Real Estate Business Website
 -	Developed web application for home builder to expand marketing and customer communication
 -	Utilized an embedded map to display available properties to customers
 -	Captured and edited drone footage to showcase available houses
