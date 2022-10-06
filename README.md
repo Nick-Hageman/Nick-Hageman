@@ -38,11 +38,3 @@ https://user-images.githubusercontent.com/91749467/194215127-e8a49729-03f4-44fc-
 -	Created REST API's to send & receive data from a microcontroller <br>
 -	Presented data from a relational database using a JavaScript graphing API <br><br>
 <img src="screenshot4.PNG" width="500px;" height="500px">
-
-<h3>Wordle Guessing Game</h3>
--	Players have 6 attempts to guess a five letter word <br>
-- Program creates game objects, performs unit testing, and responds to user input<br>
--	Practice writing/using C++ classes, splitting up programs into multiple files, and problem solving <br><br>
-
-https://user-images.githubusercontent.com/91749467/194216593-85aa7add-5284-461c-8bd1-e91c0fcf6646.mp4
-
