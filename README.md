@@ -30,11 +30,19 @@ I am currently attending the university of Iowa for Computer Science & Engineeri
 -	Developed web application for home builder to expand marketing and customer communication <br>
 -	Utilized an embedded map to display available properties to customers <br>
 -	Captured and edited drone footage to showcase available houses <br><br>
-<img src="screenshot1.PNG" width="750px;" height="375px">
-<img src="screenshot2.PNG" width="750px;" height="375px">
+
+https://user-images.githubusercontent.com/91749467/194215127-e8a49729-03f4-44fc-84eb-2033c2a42c5a.mp4
 
 <h3>IoT Web Application</h3>
 -	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
 -	Created REST API's to send & receive data from a microcontroller <br>
 -	Presented data from a relational database using a JavaScript graphing API <br><br>
 <img src="screenshot4.PNG" width="500px;" height="500px">
+
+<h3>Wordle Guessing Game</h3>
+-	Players have 6 attempts to guess a five letter word <br>
+- Program creates game objects, performs unit testing, and responds to user input<br>
+-	Practice writing/using C++ classes, splitting up programs into multiple files, and problem solving <br><br>
+
+https://user-images.githubusercontent.com/91749467/194216593-85aa7add-5284-461c-8bd1-e91c0fcf6646.mp4
+
