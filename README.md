@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=Nick%20Hageman&type=waving&color=0:00b39b,100:1842b5&height=200&animation=fadeIn&fontColor=eccfff&fontAlignY=40&theme=onedark)
 ====================================================================================================================================
-I am currently attending the university of Iowa for Computer Science & Engineering.
+I am currently attending the University of Iowa for Computer Science & Engineering.
 
 * 🖥️  See my portfolio at [repositories](http://github.com/Nick-Hageman?tab=repositories)
 * ✉️  You can contact me at [nicholas-hageman@uiowa.edu](mailto:nicholas-hageman@uiowa.edu)
