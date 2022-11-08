@@ -36,4 +36,4 @@ https://user-images.githubusercontent.com/91749467/194215127-e8a49729-03f4-44fc-
 -	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
 -	Created REST API's to send & receive data from a microcontroller <br>
 -	Presented data from a relational database using a JavaScript graphing API <br><br>
-<img src="screenshot4.PNG" width="500px;" height="500px">
+<img src="screenshot5.PNG" width="1000px;" height="500px">
