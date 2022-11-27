@@ -32,6 +32,14 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 
 https://user-images.githubusercontent.com/91749467/194215127-e8a49729-03f4-44fc-84eb-2033c2a42c5a.mp4
 
+<h3>ENGR:2730 Computers in Engineering</h3>
+-	Added features to "Asteroids" using topics of C++ learned in class including:<br>
+-	OOP, dynamic memory allocation, SFML library, composition, inheritance, and polymorphism <br>
+-	Extra Credit: Implemented final boss round, enemy tracking (movement & aim), shield capabilities and ability to reset game <br><br>
+
+https://user-images.githubusercontent.com/91749467/204119375-712531aa-f3ae-4c50-93f5-bc627e1bd36e.mp4
+
+
 <h3>IoT Web Application</h3>
 -	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
 -	Created REST API's to send & receive data from a microcontroller <br>
