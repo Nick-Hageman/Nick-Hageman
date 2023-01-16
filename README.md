@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?text=Nick%20Hageman&type=waving&color=0:00b39b,100:1842b5&height=200&animation=fadeIn&fontColor=eccfff&fontAlignY=40&theme=onedark)
-====================================================================================================================================
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-hageman&label=Profile%20views&color=0e75b6&style=flat" alt="nick-hageman" /> </p>
 I am currently attending the University of Iowa for Computer Science & Engineering.
 
