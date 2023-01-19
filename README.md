@@ -33,10 +33,14 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 
 <h3>Real Estate Business Website</h3>
 -	Developed web application for home builder to expand marketing and customer communication <br>
--	Utilized an embedded map to display available properties to customers <br>
--	Captured and edited drone footage to showcase available houses <br><br>
+-	Utilized LiDAR technology to capture and render interactive 3D floorplans of available homes <br>
+-	Implemented an interactive satellite map to display available properties to customers <br>
+-	Containerized the application using Docker in an AWS EC2 hosting environment <br><br>
 
-https://user-images.githubusercontent.com/91749467/194215127-e8a49729-03f4-44fc-84eb-2033c2a42c5a.mp4
+
+https://user-images.githubusercontent.com/91749467/213323324-417451a5-0ce0-4a86-a23c-b683bd9444f7.mp4
+
+https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-9282-2d1d30bdb63a.mp4
 
 <h3>ENGR:2730 Computers in Engineering</h3>
 -	Added features to "Asteroids" using topics of C++ learned in class including:<br>
