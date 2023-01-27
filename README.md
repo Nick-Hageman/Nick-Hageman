@@ -42,6 +42,13 @@ https://user-images.githubusercontent.com/91749467/213323324-417451a5-0ce0-4a86-
 
 https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-9282-2d1d30bdb63a.mp4
 
+
+<h3>IoT Web Application</h3>
+-	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
+-	Created REST API's to send & receive data from a microcontroller <br>
+-	Presented data from a relational database using a JavaScript graphing API <br><br>
+<img src="screenshot5.PNG" width="1000px;" height="500px">
+
 <h3>ENGR:2730 Computers in Engineering</h3>
 -	Added features to "Asteroids" using topics of C++ learned in class including:<br>
 -	OOP, dynamic memory allocation, SFML library, composition, inheritance, and polymorphism <br>
@@ -49,9 +56,3 @@ https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-
 
 https://user-images.githubusercontent.com/91749467/204119375-712531aa-f3ae-4c50-93f5-bc627e1bd36e.mp4
 
-
-<h3>IoT Web Application</h3>
--	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
--	Created REST API's to send & receive data from a microcontroller <br>
--	Presented data from a relational database using a JavaScript graphing API <br><br>
-<img src="screenshot5.PNG" width="1000px;" height="500px">
