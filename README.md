@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-hageman&label=Profile%20views&color=0e75b6&style=flat" alt="nick-hageman" /> </p>
 I am currently attending the University of Iowa for Computer Science & Engineering.
 
-* 🖥️  See my portfolio at [repositories](http://github.com/Nick-Hageman?tab=repositories)
+* 🌐  See my portfolio at [repositories](http://github.com/Nick-Hageman?tab=repositories)
 * ✉️  You can contact me at [nicholas-hageman@uiowa.edu](mailto:nicholas-hageman@uiowa.edu)
-* 🚀  I'm currently working on a [Real Estate Website](http://ec2-34-207-204-243.compute-1.amazonaws.com:5000/index.html)
+* 🏡  I'm currently working on a [Real Estate Website](http://ec2-34-207-204-243.compute-1.amazonaws.com:5000/index.html)
 * 🤝  I'm open to collaborating on Hackathon projects
 
 ### Skills
