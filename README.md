@@ -1,9 +1,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-hageman&label=Profile%20views&color=0e75b6&style=flat" alt="nick-hageman" /> </p>
 I am currently attending the University of Iowa for Computer Science & Engineering.
 
-* 🌐  See my portfolio at [repositories](http://github.com/Nick-Hageman?tab=repositories)
+* 🌐  Check out my personal website [nickhageman.com](http://nickhageman.com)
 * ✉️  You can contact me at [nicholas-hageman@uiowa.edu](mailto:nicholas-hageman@uiowa.edu)
-* 🏡  I'm currently working on a [Real Estate Website](http://ec2-34-207-204-243.compute-1.amazonaws.com:5000/index.html)
+* 🏡  I'm currently working on a [Real Estate Website](https://hageman-homes.com)
 * 🤝  I'm open to collaborating on Hackathon projects
 
 ### Skills
@@ -45,6 +45,12 @@ https://user-images.githubusercontent.com/91749467/213323324-417451a5-0ce0-4a86-
 
 https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-9282-2d1d30bdb63a.mp4
 
+<h3>Desktop Native Chat Application</h3>
+-	Implemented MongoDB as a database management system for storing user data and chat history<br>
+-	Leveraged web sockets for bidirectional and low-latency communication<br>
+-	Enforced a rate limiting policy for server requests, preventing up to 99% of brute-force attacks<br><br>
+
+https://user-images.githubusercontent.com/91749467/229270415-5c2c0d60-e3b7-485a-b171-817aac5c18ad.mp4
 
 <h3>IoT Web Application</h3>
 -	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
