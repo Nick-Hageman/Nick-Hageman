@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nick-hageman&label=Profile%20views&color=0e75b6&style=flat" alt="nick-hageman" /> </p>
 I am currently attending the University of Iowa for Computer Science & Engineering.
 
 * 🌐  Check out my personal website [nickhageman.com](http://nickhageman.com)
@@ -40,7 +39,6 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 -	Implemented an interactive satellite map to display available properties to customers <br>
 -	Containerized the application using Docker in an AWS EC2 hosting environment <br><br>
 
-
 https://user-images.githubusercontent.com/91749467/213323324-417451a5-0ce0-4a86-a23c-b683bd9444f7.mp4
 
 https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-9282-2d1d30bdb63a.mp4
@@ -48,7 +46,8 @@ https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-
 <h3>LeetGPT</h3>
 -	Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems <br>
 -	Leveraged OpenAI's ChatGPT Language Model API for generative solutions <br><br>
-<img src="leetgpt.PNG" width="1000px;" height="500px">
+
+[leetGPT.webm](https://user-images.githubusercontent.com/91749467/234675052-be84de00-5c60-4dcb-be61-6d23ea569bb9.webm)
 
 <h3>Desktop Native Chat Application</h3>
 -	Implemented MongoDB as a database management system for storing user data and chat history<br>
