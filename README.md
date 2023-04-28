@@ -47,7 +47,7 @@ https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-
 -	Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems <br>
 -	Leveraged OpenAI's ChatGPT Language Model API for generative solutions <br><br>
 
-[leetGPT.webm](https://user-images.githubusercontent.com/91749467/234675052-be84de00-5c60-4dcb-be61-6d23ea569bb9.webm)
+https://user-images.githubusercontent.com/91749467/235044786-67376d02-92ff-4c53-9175-52d9c079556d.mp4
 
 <h3>Desktop Native Chat Application</h3>
 -	Implemented MongoDB as a database management system for storing user data and chat history<br>
