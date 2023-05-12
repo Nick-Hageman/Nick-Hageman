@@ -33,34 +33,34 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 
 <h1>Recent Projects</h1>
 
-<h3>Real Estate Business Website</h3>
--	Developed web application for home builder to expand marketing and customer communication <br>
--	Utilized LiDAR technology to capture and render interactive 3D floorplans of available homes <br>
--	Implemented an interactive satellite map to display available properties to customers <br>
--	Containerized the application using Docker in an AWS EC2 hosting environment <br><br>
+<h3><a href="http://hageman-homes.com">Real Estate Business Website</a></h3>
+- Developed web application for home builder to expand marketing and customer communication <br>
+- Utilized LiDAR technology to capture and render interactive 3D floorplans of available homes<br>
+- Implemented an interactive satellite map to display available properties to customers <br>
+- Managed and deployed the application using Docker in an AWS hosting environment <br>
 
 https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/d0aab9b7-596e-43b1-89b0-ed37d2e3aad4
 
-<h3>LeetGPT</h3>
+<h3><a href="https://github.com/Nick-Hageman/LeetGPT">LeetGPT</a></h3>
 -	Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems <br>
 -	Leveraged OpenAI's ChatGPT Language Model API for generative solutions <br><br>
 
 https://user-images.githubusercontent.com/91749467/235044786-67376d02-92ff-4c53-9175-52d9c079556d.mp4
 
-<h3>Desktop Native Chat Application</h3>
+<h3><a href="https://github.com/Nick-Hageman/Desktop-Native-Chat-Application">Desktop Native Chat Application</a></h3>
 -	Implemented MongoDB as a database management system for storing user data and chat history<br>
 -	Leveraged web sockets for bidirectional and low-latency communication<br>
 -	Enforced a rate limiting policy for server requests, preventing up to 99% of brute-force attacks<br><br>
 
 https://user-images.githubusercontent.com/91749467/229270415-5c2c0d60-e3b7-485a-b171-817aac5c18ad.mp4
 
-<h3>IoT Web Application</h3>
+<h3><a href="https://github.com/Nick-Hageman/plant-hydration-monitor">Plant Hydration Monitor</a></h3>
 -	Developed an IoT Web Application to monitor soil moisture levels in real time <br>
 -	Created REST API's to send & receive data from a microcontroller <br>
 -	Presented data from a relational database using a JavaScript graphing API <br><br>
 <img src="screenshot5.PNG" width="1000px;" height="500px">
 
-<h3>ENGR:2730 Computers in Engineering</h3>
+<h3><a href="https://github.com/Nick-Hageman/ENGR-2730-Computers-in-Engineering/tree/main/Asteroids">ENGR:2730 Computers in Engineering</a></h3>
 -	Added features to "Asteroids" using topics of C++ learned in class including:<br>
 -	OOP, dynamic memory allocation, SFML library, composition, inheritance, and polymorphism <br>
 -	Extra Credit: Implemented final boss round, enemy tracking (movement & aim), shield capabilities and ability to reset game <br><br>
