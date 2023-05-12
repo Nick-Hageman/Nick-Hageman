@@ -39,9 +39,7 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 -	Implemented an interactive satellite map to display available properties to customers <br>
 -	Containerized the application using Docker in an AWS EC2 hosting environment <br><br>
 
-https://user-images.githubusercontent.com/91749467/213323324-417451a5-0ce0-4a86-a23c-b683bd9444f7.mp4
-
-https://user-images.githubusercontent.com/91749467/213325228-1086373e-a8f2-4b1a-9282-2d1d30bdb63a.mp4
+https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/d0aab9b7-596e-43b1-89b0-ed37d2e3aad4
 
 <h3>LeetGPT</h3>
 -	Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems <br>
