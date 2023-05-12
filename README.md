@@ -37,7 +37,7 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 - Developed web application for home builder to expand marketing and customer communication <br>
 - Utilized LiDAR technology to capture and render interactive 3D floorplans of available homes<br>
 - Implemented an interactive satellite map to display available properties to customers <br>
-- Managed and deployed the application using Docker in an AWS hosting environment <br>
+- Managed and deployed the application using Docker in an AWS hosting environment <br> <br>
 
 https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/d0aab9b7-596e-43b1-89b0-ed37d2e3aad4
 
