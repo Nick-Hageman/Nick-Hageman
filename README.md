@@ -35,11 +35,11 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 
 <h3><a href="http://hageman-homes.com">Real Estate Business Website</a></h3>
 - Developed web application for home builder to expand marketing and customer communication <br>
-- Utilized LiDAR technology to capture and render interactive 3D floorplans of available homes<br>
 - Implemented an interactive satellite map to display available properties to customers <br>
+- Integrated a Content Management System (CMS) for the client to dynamically add 3D CAD floorplans <br>
 - Managed and deployed the application using Docker in an AWS hosting environment <br> <br>
 
-https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/d0aab9b7-596e-43b1-89b0-ed37d2e3aad4
+https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/47a6e1dc-db33-45b3-bd50-0584c79d0898
 
 <h3><a href="https://github.com/Nick-Hageman/LeetGPT">LeetGPT</a></h3>
 -	Developed a Chrome extension tool that provides LeetCode users with solutions to coding problems <br>
