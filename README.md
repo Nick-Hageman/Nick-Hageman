@@ -33,7 +33,7 @@ I am currently attending the University of Iowa for Computer Science & Engineeri
 
 <h1>Recent Projects</h1>
 
-<h3><a href="http://hageman-homes.com">FarmVision</a></h3>
+<h3><a href="https://github.com/Nick-Hageman/FarmVision">FarmVision</a></h3>
 - Modeled agricultural field data in Virtual Reality by utilizing John Deere Precision Ag APIs<br>
 - Awarded "Best Data Collection Hack" at HackUIowa 2023 <br>
 
