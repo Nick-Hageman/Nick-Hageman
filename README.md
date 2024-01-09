@@ -1,4 +1,4 @@
-# 🏄‍♂️ Nick Hageman
+# Nick Hageman
 
 **`Software Engineer (Student👨‍🎓/Engineer👨‍🚀/Developer👨‍💻)`**
 
