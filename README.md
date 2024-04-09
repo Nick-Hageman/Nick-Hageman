@@ -2,7 +2,9 @@
 
 **`Software Engineer (Student👨‍🎓/Engineer👨‍🚀/Developer👨‍💻)`**
 
-I'm currently a junior at the University of Iowa studying Computer Science & Engineering. I'm interested in all things technology, especially Machine Learning/Artificial Intelligence, Web Application Development, and Embedded Software Development. Feel free to check out my [personal website](https://nickhageman.com) to view some of my recent experiences/projects.
+Experienced in the fields of Software Engineering, AI/ML, and Human-Computer Interaction. You can find my [full list of projects here](https://github.com/Nick-Hageman?tab=repositories). My last internship at John Deere consisted of writing production level code for new features on a full-stack application. Recently, I've been working on a research project with Holo Reality Lab at my university to create an immersive 3D telepresence app on the Apple Vision Pro.
+
+I grew up in a small Iowa farm town (home to the Field of Dreams) and currently live in Iowa City. Outside of programming, I enjoy lifting weights, cooking, and watching UFC events. I'm always eager to learn new skills and technologies, so feel free to reach out regarding any software engineering related opportunities.
 
    <p align="left">
       <a href="www.linkedin.com/in/nick-hageman">
