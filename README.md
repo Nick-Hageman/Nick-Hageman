@@ -44,6 +44,29 @@ I grew up in a small Iowa farm town (home to the Field of Dreams) and currently 
 <table>
   <tr>
     <td align="center">
+      <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/f5542336-b48d-445f-9492-5d6fe73d228e" width="300" alt="mockup">
+      <br>
+       <a href="https://github.com/Nick-Hageman/HoloKinect-VisionPro">🚧3D Conferencing (Vision Pro)🚧</a>
+      <br>
+      🔨 Swift, visionOS, ARKit
+    </td>
+    <td align="center">
+       <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/13807f50-f350-4149-9353-f14d7bbe1376" width="300" alt="mockup">
+      <br>
+       <a href="https://github.com/Nick-Hageman/Neural-RGBD-Encoding">Neural RGB-D Encoding📦</a>
+      <br>
+      🔨 Python, PyTorch, Jupyter-Notebook
+    </td>
+    <td align="center">
+      <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/7ff76152-cea9-4733-be0e-79bca92f1f8c" width="300" alt="mockup">
+      <br>
+       <a href="https://github.com/Nick-Hageman/ECE-5550-Internet-of-Things">DriveSense🚗</a>
+      <br>
+      🔨 Python, TensorFlow, React, Firebase
+    </td>
+  </tr>
+   <tr>
+    <td align="center">
       <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/b4bde178-43db-4728-8d43-faf71634172a" width="300" alt="mockup">
       <br>
        <a href="https://github.com/Nick-Hageman/FarmVision">FarmVision🌾</a>
