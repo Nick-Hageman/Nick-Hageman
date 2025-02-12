@@ -35,7 +35,7 @@
     <td align="center">
       <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/c5186862-f905-4f59-98c5-4f870967da92" width="300" alt="mockup">
       <br>
-       <a href="https://hageman-homes.com/">Hageman Homes🏡</a>
+       <a href="https://github.com/Nick-Hageman/Real-Estate-Website">Hageman Homes🏡</a>
       <br>
       🔨 React, Three.js, Docker, AWS
     </td>
