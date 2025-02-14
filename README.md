@@ -1,6 +1,29 @@
 ### ⏳ Latest Projects
 
 <table>
+    <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/976507f2-a82a-467b-b051-b1a4f8bff041" width="300" alt="mockup">
+      <br>
+       <a href="https://github.com/Nick-Hageman/SlopeStats">🏂Slope Stats⛷️</a>
+      <br>
+      🔨 Swift, CoreMotion, HealthKit, SwiftUI
+    </td>
+    <td align="center">
+       <img src="https://github.com/user-attachments/assets/45a9b3f4-83b9-4da2-8b49-fdf0f797b58a" width="300" alt="mockup">
+      <br>
+       <a href="https://github.com/Nick-Hageman/ECE-3360-Embedded-Systems">🕹️Handheld Retro Game Controller🎮</a>
+      <br>
+      🔨 C++, ESP8266, Raspberry Pi, JavaScript
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e1841c4c-9f12-4847-bbf5-a47183aa1ac6" width="300" alt="mockup">
+      <br>
+       <a href="https://engineering.uiowa.edu/news-all/2024/11/iowa-engineers-win-39500-iowa-innovation-challenge">SmartDart🎯</a>
+      <br>
+      🔨 Python, OpenCV, Swift, Raspberry Pi
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://github.com/Nick-Hageman/Nick-Hageman/assets/91749467/f5542336-b48d-445f-9492-5d6fe73d228e" width="300" alt="mockup">
